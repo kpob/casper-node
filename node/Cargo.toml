@@ -44,7 +44,7 @@ hyper = "0.14.4"
 itertools = "0.10.0"
 jemalloc-ctl = "0.3.3"
 jemallocator = "0.3.2"
-k256 = { version = "0.7.2", features = ["arithmetic", "ecdsa", "sha256", "zeroize"] }
+k256 = { version = "0.11.0", features = ["arithmetic", "ecdsa", "sha256"] }
 libc = "0.2.66"
 linked-hash-map = "0.5.3"
 lmdb = "0.8.0"
